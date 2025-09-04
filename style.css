@@ -42,3 +42,11 @@ body{
   background: #262626;
   z-index: 0;
 }
+.timeline-item{
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-bottom: 18px;
+  min-height: 36px;
+  z-index: 1;
+}
