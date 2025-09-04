@@ -50,3 +50,22 @@ body{
   min-height: 36px;
   z-index: 1;
 }
+.timeline-date{
+  flex: 0 0 110px;
+  text-align: right;
+  font-size: 1.03em;
+  color: #444;
+  padding-right: 18px;
+  user-select: none;
+}
+.timeline-dot{
+  width: 12px;
+  height: 12px;
+  background: #222;
+  border-radius: 50%;
+  margin-right: 18px;
+  border: 2.5px solid #fff;
+  z-index: 1;
+  box-shadow: 0 0 0 2px #222;
+  
+}
