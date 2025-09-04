@@ -1,7 +1,7 @@
-    body {
-      background: #fafafa;
-      font-family: 'Inter', Arial, sans-serif;
-    }
+body {
+  background: #fafafa;
+  font-family: 'Inter', Arial, sans-serif;
+}
     .changelog-card {
       background: #fff;
       max-width: 550px;
@@ -30,18 +30,17 @@
       padding: 0;
       position: relative;
       list-style: none;
-      min-height: 90px;
+      min-height: 80px;
     }
-    .timeline::before {
-      content: '';
-      position: absolute;
-      left: 135px;
-      top: 10px;
-      bottom: 30px;
-      width: 2px;
-      background: #262626;
-      z-index: 0;
-    }
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 128px;
+  top: 10px;
+  bottom: 30px;
+  width: 2px;
+  background: #262626;
+
     .timeline-item {
       display: flex;
       align-items: center;
