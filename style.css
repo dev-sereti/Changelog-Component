@@ -19,3 +19,9 @@ body{
   letter-spacing: -1px;
   font-weight: 700;
 }
+.changelog-card p{
+  color: #aaa;
+  text-align: center;
+  margin: 0 0 32px 0;
+  font-size: 1.1em;
+}
