@@ -74,4 +74,23 @@ body{
   color: #212121;
   line-height: 1.6;
 }
-
+.changelog-btn {
+  display: block;
+  margin: 24px auto 0 auto;
+  padding: 12px 39px;
+  font-size: 1.03rem;
+  background: #222;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  transition: background 0.18s;
+  text-align: center;
+  text-decoration: none;
+}
+.changelog-btn:hover {
+  background: #444;
+}
