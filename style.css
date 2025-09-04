@@ -25,3 +25,10 @@ body{
   margin: 0 0 32px 0;
   font-size: 1.1em;
 }
+.timeline{
+  margin: 0 0 28px 0;
+  padding: 0;
+  position: relative;
+  list-style: none;
+  min-height: 310px;
+}
