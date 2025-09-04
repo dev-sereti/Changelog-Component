@@ -32,3 +32,13 @@ body{
   list-style: none;
   min-height: 80px;
 }
+.timeline::before{
+  content: '';
+  position: absolute;
+  left: 120px;
+  top: 8px;
+  bottom: 26px;
+  width: 2px;
+  background: #262626;
+  z-index: 0;
+}
