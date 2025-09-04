@@ -93,19 +93,3 @@
     .changelog-btn:hover {
       background: #444;
     }
-    @media (max-width: 600px) {
-      .changelog-card {
-        padding: 20px 6px 18px 6px;
-        max-width: 97vw;
-      }
-      .timeline-date {
-        font-size: 0.95rem;
-        padding-right: 10px;
-      }
-      .timeline::before {
-        left: 84px;
-      }
-      .timeline-dot {
-        margin-right: 11px;
-      }
-    }
