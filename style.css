@@ -67,5 +67,11 @@ body{
   border: 2.5px solid #fff;
   z-index: 1;
   box-shadow: 0 0 0 2px #222;
-  
+
 }
+.timeline-content{
+  font-size: 1.09em;
+  color: #212121;
+  line-height: 1.6;
+}
+
